@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="FORGE Personal Training photo placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c2128"/><stop offset="1" stop-color="#0d0f12"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0.7" cy="0.2" r="0.9">
+      <stop offset="0" stop-color="#c6ff00" stop-opacity="0.18"/><stop offset="1" stop-color="#c6ff00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <rect width="800" height="1000" fill="url(#r)"/>
+  <g transform="translate(400 460)" fill="none" stroke="#c6ff00" stroke-width="14" stroke-linecap="round" opacity="0.85">
+    <line x1="-150" y1="0" x2="150" y2="0"/>
+    <rect x="-185" y="-45" width="40" height="90" rx="10" fill="#c6ff00" stroke="none"/>
+    <rect x="145" y="-45" width="40" height="90" rx="10" fill="#c6ff00" stroke="none"/>
+    <rect x="-215" y="-30" width="22" height="60" rx="8" fill="#c6ff00" stroke="none"/>
+    <rect x="193" y="-30" width="22" height="60" rx="8" fill="#c6ff00" stroke="none"/>
+  </g>
+  <text x="400" y="610" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="900" fill="#eef1f4" text-anchor="middle" letter-spacing="-1">FORGE</text>
+  <text x="400" y="650" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#9aa6b2" text-anchor="middle" letter-spacing="4">PERSONAL TRAINING · NORWICH</text>
+</svg>

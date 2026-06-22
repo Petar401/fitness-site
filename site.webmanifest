@@ -1,0 +1,12 @@
+{
+  "name": "FORGE Personal Training — Norwich",
+  "short_name": "FORGE PT",
+  "description": "Personal training in Norwich — strength, fat-loss and online coaching with Jordan Hale.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0d0f12",
+  "theme_color": "#0d0f12",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
